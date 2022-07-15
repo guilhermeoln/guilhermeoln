@@ -27,7 +27,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/guilhermeoln/guilhermeoln/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
