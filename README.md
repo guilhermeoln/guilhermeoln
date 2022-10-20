@@ -25,7 +25,7 @@
 ###
 
 <p align="left">Portfólio: https://joseguilherme.netlify.app/</p>
-<p align="left">Linkedin:https://www.linkedin.com/in/jos%C3%A9-guilherme-763aa0232/</p>
+<p align="left">Linkedin:https://www.linkedin.com/in/joseguilhermedev/</p>
 
 
 ###
