@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo José Guilherme, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS (MaterialUI, ContextAPI, Pré-processadores, Styled-Components, integração com o back-end), JavaScript, CSS, FireBase, CSharp. </p>
+<p align="left">Me chamo José Guilherme, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS (MaterialUI, ContextAPI, Pré-processadores, Styled-Components, integração com API), JavaScript, CSS, FireBase, CSharp. </p>
 
 ###
 
