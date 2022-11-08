@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo José Guilherme, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS (MaterialUI, ContextAPI, Pré-processadores, Styled-Components, integração com API), JavaScript, CSS, FireBase, CSharp. </p>
+<p align="left">Me chamo José Guilherme, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS (MaterialUI, ContextAPI, Pré-processadores, Styled-Components, integração com API), JavaScript, CSS, FireBase, CSharp. Também tive convívio com a Metodologia Ágil SCRUM. </p>
 
 ###
 
@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">Portfólio: https://joseguilherme.netlify.app/</p>
+<p align="left">Email: guilhermedev2002@gmail.com</p>
+<p align="left">Tel. para contato: (81)99805-9073</p>
 <p align="left">Linkedin:https://www.linkedin.com/in/joseguilhermedev/</p>
 
 
