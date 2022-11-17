@@ -1,4 +1,4 @@
-<h1 align="left">José Guilherme - Desenvolvedor Front-End</h1>
+<h1 align="left">José Guilherme - Desenvolvedor Front End</h1>
 
 ###
 
