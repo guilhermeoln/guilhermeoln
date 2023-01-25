@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo José Guilherme, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS (MaterialUI, ContextAPI, Pré-processadores, Styled-Components, integração com API), JavaScript, CSS, FireBase, CSharp. Também tive convívio com a Metodologia Ágil SCRUM. </p>
+<p align="left">Me chamo José Guilherme, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS | NextJS (MaterialUI, TypeScript, Redux, ReduxToolKit, ContextAPI, Pré-processadores, Styled-Components, Chakra UI, Hook Form, integração com API), TypeScript, JavaScript, CSS, FireBase, CSharp. Também tive convívio com a Metodologia Ágil SCRUM.</p>
 
 ###
 
