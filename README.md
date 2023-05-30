@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo José Guilherme, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre à procura de novos desafios que me levem a melhorar minhas competências, sou apaixonado pela área de desenvolvimento e pretendo me aprofundar cada dia mais. Possuo experiência no desenvolvimento web com as seguintes tecnologias : ReactJS | NextJS (MaterialUI, TypeScript, Redux, ReduxToolKit, ContextAPI, Pré-processadores, Styled-Components, Chakra UI, Hook Form, integração com API), TypeScript, JavaScript, CSS, FireBase, CSharp. Também tive convívio com a Metodologia Ágil SCRUM.</p>
+<p align="left">Sou José Guilherme, um desenvolvedor Front End com fortes habilidades em ReactJS e NextJS, incluindo MaterialUI, Redux, ReduxToolkit, ContextAPI, React Query, Recoil, Pré-processadores, Styled-Components, Chakra UI, Formik e Hook Form, além de ter experiência em integração com API. Também tenho sólida experiência em TypeScript, JavaScript, CSS, SASS e CSS Modules. Com um forte foco em qualidade de código e usabilidade, estou sempre em busca de desafios interessantes e novas oportunidades para aplicar minhas habilidades em soluções inovadoras. Estou aberto a novas conexões e oportunidades profissionais, então sinta-se à vontade para entrar em contato comigo.</p>
 
 ###
 
